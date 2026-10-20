@@ -1,0 +1,6 @@
+{
+  "name": "LapZone",
+  "description": "Dedicated Tech & Laptop E-Commerce Storefront with Gaming, Business, Student, and Creator laptops, interactive spec filters, live comparison matrix, and high-res UI mockup export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
